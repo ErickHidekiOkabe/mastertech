@@ -1,0 +1,41 @@
+h1{
+   color: red;
+}
+h2{
+    color: green;
+    font-size: 60px;
+
+}
+
+li{
+    background-color: pink;
+    
+}
+
+img{
+    width: 400px;
+
+}
+
+.segundo{
+
+    background-color: aquamarine;
+
+}
+
+#preto{
+    color: blueviolet;
+    margin-top:  70px;
+
+}
+
+.imagem{
+    border: 10px solid rgb(240, 13, 108);
+    width: 700px;
+    text-align: center;
+    margin-left: 190px;
+
+
+
+    
+}
